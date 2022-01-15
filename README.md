@@ -1,7 +1,7 @@
 # Pratik Patil --- @pratikp1107
 - Hey there!👋
 - I'm a Graduate in Statistics 📈📊
-- Currently perceiving my PG in Data Science💻💹
+- Currently pursuing my PG in Data Science💻💹
 ---
 - Python and R Programming enthusiast😃
 - Also interested in:
