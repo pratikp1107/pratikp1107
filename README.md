@@ -5,7 +5,9 @@
 ---
 - Python and R Programming enthusiast😃
 - Also interested in:
+  - Machine Learning
   - DBMS (MySQL & PostgreSQL)
+  - Data Visualization
   - SAS
   - Google Cloud
   - Azure DevOps
