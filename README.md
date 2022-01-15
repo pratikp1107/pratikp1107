@@ -2,7 +2,7 @@
 - Hey there!👋
 - I'm a Graduate in Statistics 📈📊
 - Currently pursuing my PG in Data Science💻💹
----
+##
 - Python and R Programming enthusiast😃
 - Also interested in:
   - Machine Learning
@@ -11,8 +11,7 @@
   - SAS
   - Google Cloud
   - Azure DevOps
-  
-  etc.
+- Would like to collaborate on any project🤝
 
 <!---
 pratikp1107/pratikp1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
